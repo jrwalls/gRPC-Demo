@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35dabc04-d076-4a73-8358-df0fee50ee38": {
+      "ProjectGuid": "35dabc04-d076-4a73-8358-df0fee50ee38",
+      "DisplayName": "GrpcGreeter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
